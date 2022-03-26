@@ -1,0 +1,10 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart h4{
+  text-align: center;
+}
+.cart p{
+    margin-left: 20px;
+}

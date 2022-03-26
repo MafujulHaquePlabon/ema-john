@@ -21,9 +21,13 @@ margin-top: 5px;
 .product-info{
     margin: 0 14px;
 }
+  .product-info h4{
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
 .product-info p{
- margin-bottom: 0px;
- margin-top: 0px;
+ margin-top: 0;
+ margin-bottom: 0;
 }
 .btn-cart{
     width: 100%;
